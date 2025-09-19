@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # -----------------------------------------------------------------------------
-# Declare some useful functions.
+# Declare some useful functions
 
 @st.cache_data
 def get_gdp_data():
